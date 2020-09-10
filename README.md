@@ -1,5 +1,7 @@
 ## Infinite Scrolling & Filter
 
+for live [demo](https://techkanna.github.io/vtr-infinite-scroll-blog/)
+
 Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
 
 ## Project Specifications
